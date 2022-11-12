@@ -1,4 +1,4 @@
-full = list(map(int, input('Enter 3 numbers: ').split()))
+full = list(map(int, input('Enter numbers: ').split()))
 summ = sum(full)
 
 if summ > 15 :
